@@ -12,4 +12,4 @@
 [![Redis](https://img.shields.io/badge/-Redis-111?&logo=Redis)](https://redis.io/)
 [![React Native](https://img.shields.io/badge/-React%20Native-111?&logo=React)](https://reactnative.dev/)
   *  *  *  *  *
-[![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=naldeco98&include_all_commits=true&show_icons=true)](https://github.com/naldeco98)
+[![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=naldeco98&show_icons=true)](https://github.com/naldeco98)
