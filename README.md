@@ -12,7 +12,7 @@
 [![MySQL](https://img.shields.io/badge/-SQL-111?&logo=MySQL)](https://www.mysql.com/)
 ***
 ### *My Proyects*
-[![Blockchain](https://img.shields.io/badge/-YourTicket-111?&logo=go)](https://github.com/naldeco98/blockchain_in_Go)
+[![Blockchain](https://img.shields.io/badge/-Blockchain-111?&logo=go)](https://github.com/naldeco98/blockchain_in_Go)
 [![YourTicket](https://img.shields.io/badge/-YourTicket-111?&logo=go)](https://github.com/naldeco98/YourTicket)
 [![Color Filter](https://img.shields.io/badge/-ColorFilter-111?&logo=go)](https://github.com/naldeco98/color-filter)
 ***
