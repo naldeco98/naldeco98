@@ -9,7 +9,7 @@
 [![Linux](https://img.shields.io/badge/-Linux-111?&logo=Linux)](https://www.linux.org/)
 [![Redis](https://img.shields.io/badge/-Redis-111?&logo=Redis)](https://redis.io/)
 [![React Native](https://img.shields.io/badge/-React%20Native-111?&logo=React)](https://reactnative.dev/)
-[![MySQL](https://img.shields.io/badge/-SQL-111?&logo=MySQL)](https://www.mysql.com/)
+[![MySQL](https://img.shields.io/badge/-MySql-111?&logo=MySQL)](https://www.mysql.com/)
 ***
 ### *My Proyects*
 [![Blockchain](https://img.shields.io/badge/-Blockchain-111?&logo=go)](https://github.com/naldeco98/blockchain_in_Go)
