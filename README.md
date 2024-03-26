@@ -3,6 +3,7 @@
 ### *Lenguages*
 [![Golang](https://img.shields.io/badge/-Go-111?&logo=go)](https://go.dev/)
 [![Python](https://img.shields.io/badge/-Python-111?&logo=Python)](https://www.python.org/)
+[![Ruby](https://img.shields.io/badge/-Ruby-111?&logo=Ruby)](https://www.ruby-lang.org/)
 ***
 ### *Technologies*
 [![Docker](https://img.shields.io/badge/-Docker-111?&logo=Docker)](https://www.docker.com/)
