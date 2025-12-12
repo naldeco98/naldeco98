@@ -1,25 +1,64 @@
-## Hi, i'm Nicolas! 🤓💻
-### Welcome to my GitHub Profile here is little summery 👇
-### *Lenguages*
-[![Golang](https://img.shields.io/badge/-Go-111?&logo=go)](https://go.dev/)
-[![Python](https://img.shields.io/badge/-Python-111?&logo=Python)](https://www.python.org/)
-[![Ruby](https://img.shields.io/badge/-Ruby-111?&logo=Ruby)](https://www.ruby-lang.org/)
-***
-### *Technologies*
-[![Docker](https://img.shields.io/badge/-Docker-111?&logo=Docker)](https://www.docker.com/)
-[![Linux](https://img.shields.io/badge/-Linux-111?&logo=Linux)](https://www.linux.org/)
-[![Redis](https://img.shields.io/badge/-Redis-111?&logo=Redis)](https://redis.io/)
-[![React Native](https://img.shields.io/badge/-React%20Native-111?&logo=React)](https://reactnative.dev/)
-[![MySQL](https://img.shields.io/badge/-MySql-111?&logo=MySQL)](https://www.mysql.com/)
-***
-### *My Proyects*
-[![Blockchain](https://img.shields.io/badge/-Blockchain-111?&logo=go)](https://github.com/naldeco98/blockchain_in_Go)
-[![YourTicket](https://img.shields.io/badge/-YourTicket-111?&logo=go)](https://github.com/naldeco98/YourTicket)
-[![Color Filter](https://img.shields.io/badge/-ColorFilter-111?&logo=go)](https://github.com/naldeco98/color-filter)
-***
-<!-- ### *Collage Proyects*
-[![Sudoku Game](https://img.shields.io/badge/-Sudoku%20Game-111?&logo=Python)](https://github.com/naldeco98/SUDOKU)
-[![TaTeTi Game](https://img.shields.io/badge/-TaTeTi%20Game-111?&logo=Python)](https://github.com/naldeco98/TaTeTI)
-[![Least Squares](https://img.shields.io/badge/-Least%20Squares-111?&logo=Python)](https://github.com/naldeco98/proyecto-analisis-numerico) -->
-<!--   *  *  *  *  * -->
-[![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=naldeco98&show_icons=true)](https://github.com/naldeco98)
+# Hi, I'm Nicolas! 👋
+
+I’m a passionate Software Engineer based in Mendoza, Argentina 🇦🇷.
+I focus on backend development and scalable architecture, with hands-on experience in technologies like **Golang**, **Ruby on Rails**, **Databases** and **Microservices**.
+
+I thrive on turning technical challenges into user-focused solutions and enjoy working on high-impact products.
+
+Actively learning new technologies and frameworks to stay up-to-date with the latest trends in the industry.
+
+---
+
+### 💼 Experience
+
+**Software Engineer** | **Teladoc Health** (Remote - US)
+*2023 - Present*
+- Specializing in **Ruby on Rails** for the maintenance and evolution of core business applications.
+- Developing scalable features and integrating external APIs.
+- Managing Product requirements and leading the technical direction.
+- Supporting deployments and maintenance of the platform.
+
+**Full Stack Developer** | **Carga Plus** (Argentina)
+*2020 - 2021*
+- Designed and implemented a virtual wallet backend using **Golang**.
+- Developed mobile frontends using **React Native**.
+- Managed database modeling and microservices deployment.
+
+---
+
+### 🛠 Languages & Technologies
+
+[![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
+[![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)](https://reactnative.dev/)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
+
+---
+
+### 🚀 Projects
+
+*Need to update this section*
+
+---
+
+### 🎓 Education
+
+- **Associate Degree in Software Development** | ISTEA (2025 - Present)
+- **Computer Engineering** | University of Mendoza (2018 - 2023)
+
+---
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nicoaldeco" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:nico.aldeco@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</p>
+
+![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=naldeco98&show_icons=true&theme=radical)
