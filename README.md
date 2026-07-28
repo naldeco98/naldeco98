@@ -12,7 +12,7 @@ Actively learning new technologies and frameworks to stay up-to-date with the la
 ### 💼 Experience
 
 **Software Engineer** | **Teladoc Health** (Remote - US)
-*2023 - Present*
+*2023 - 2026*
 - Specializing in **Ruby on Rails** for the maintenance and evolution of core business applications.
 - Frontend development using **JavaScript**.
 - Developing scalable features and integrating external APIs.
