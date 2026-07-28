@@ -1,6 +1,6 @@
 # Hi, I'm Nicolas! 👋
 
-I’m a passionate Software Engineer based in Mendoza, Argentina 🇦🇷.
+I’m a passionate Software Engineer based in Argentina 🇦🇷.
 I focus on backend development and scalable architecture, with hands-on experience in technologies like **Golang**, **Ruby on Rails**, **Databases** and **Microservices**.
 
 I thrive on turning technical challenges into user-focused solutions and enjoy working on high-impact products.
